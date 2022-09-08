@@ -1,0 +1,1 @@
+Powershell.exe -executionpolicy remotesigned -File  "C:\Temp\Powershell Scripts\Second Automation Script.ps1"
